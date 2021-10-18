@@ -1,4 +1,4 @@
-### ¡Hola!, mi nombre es Lorena Moujalli, estudiante de ingeniería de sistemas y desarrolladora Front-End 👋
+### ¡Hola! 👋
 
 <!--
 **LOREN932/LOREN932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
