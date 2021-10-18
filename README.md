@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>hola</h1>
+<p>Mi nombre es Lorena Moujalli, estudiante de ingeniería de sistemas y desarrolladora Front-End.</p>
+
