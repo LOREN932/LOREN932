@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p><strong>Lenguajes: </strong></p>
 <ul>
   <li>C++</li>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
 
