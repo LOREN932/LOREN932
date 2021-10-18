@@ -23,6 +23,14 @@ Here are some ideas to get you started:
   <li>CSS</li>
 
 </ul>
+<p><strong>Frameworks: </strong></p>
+<ul>
+ 
+  <li>Bootstrap</li>
+
+</ul>
+
+
 
 <p><strong>Contactame:</strong></p>
 <p>Lorenamoujalli860@gmail.com</p>
