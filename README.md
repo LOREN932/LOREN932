@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 </ul>
 
+<p><strong>Contactame:</strong></p>
+<p>Lorenamoujalli860@gmail.com</p>
+
