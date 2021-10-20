@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Mi nombre es Lorena Moujalli, estudiante de ingeniería de sistemas.</p>
+
 <p><strong>Lenguajes: </strong></p>
 <ul>
   <li>C++</li>
