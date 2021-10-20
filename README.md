@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 </ul>
 
+<p><strong>Tools: </strong></p>
+<ul>
+ 
+  <li>Git</li>
+  <li>Visual Studio Code</li>
+   <li>Githube</li>
+
+</ul>
+
+
 
 
 <p><strong>Contactame:</strong></p>
