@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
+   <li>SQL</li>
 
 </ul>
 <p><strong>Frameworks: </strong></p>
@@ -30,6 +31,8 @@ Here are some ideas to get you started:
  
   <li>Bootstrap</li>
   <li>React</li>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
 
 </ul>
 
