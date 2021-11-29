@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <li>Git</li>
   <li>Visual Studio Code</li>
    <li>Githube</li>
+<li>Trello</li>
+<li>Postman</li>
 
 </ul>
 
