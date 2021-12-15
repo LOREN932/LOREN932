@@ -29,16 +29,19 @@ Here are some ideas to get you started:
   <li>NodeJs</li>
   <ul/>
   <p><strong>Tools: </strong></p>
-  <li>Git</li>
+  <ul>
+    <li>Git</li>
   <li>Visual Studio Code</li>
  <li>Githube</li>
 <li>Trello</li>
 <li>Postman</li>
+    
+    <ul/>
   
   
   
 
-<br/>
+
 <p><strong>Contactame:</strong></p>
 <p>Lorenamoujalli860@gmail.com</p>
 
