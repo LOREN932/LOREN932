@@ -29,11 +29,11 @@ Here are some ideas to get you started:
   <li>NodeJs</li>
   <ul/>
   <br/>
-  <p><strong>Tools: </strong></p>
-  <ul>
-     <li>Git</li>
-  <li>Visual Studio Code</li>
- <li>Githube</li>
+ <p><strong>Tools: </strong></p>
+ <ul>
+<li>Git</li>
+<li>Visual Studio Code</li>
+<li>Githube</li>
 <li>Trello</li>
 <li>Postman</li>
     <ul/>
