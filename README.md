@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    <li>Githube</li>
 <li>Trello</li>
 <li>Postman</li>
-
+<br/>
 <p><strong>Contactame:</strong></p>
 <p>Lorenamoujalli860@gmail.com</p>
 
