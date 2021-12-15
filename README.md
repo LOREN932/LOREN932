@@ -27,16 +27,19 @@ Here are some ideas to get you started:
    <li>Bootstrap</li>
   <li>React</li>
   <li>NodeJs</li>
-  <ul/>
-  <br/>
- <p><strong>Tools: </strong></p>
- <ul>
-<li>Git</li>
+  <li>Git</li>
 <li>Visual Studio Code</li>
 <li>Githube</li>
 <li>Trello</li>
 <li>Postman</li>
-    <ul/>
+  <ul/>
+  <p><strong>Contactame:</strong></p>
+<p>Lorenamoujalli860@gmail.com</p>
+ 
+ 
+ 
+
+    
     
   
     
