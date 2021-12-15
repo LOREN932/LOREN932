@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <li>React</li>
   <li>NodeJs</li>
   <ul/>
+  
   <p><strong>Tools: </strong></p>
   <ul>
     <li>Git</li>
