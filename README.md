@@ -23,11 +23,10 @@ Here are some ideas to get you started:
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
-   <li>SQL</li>
+   <li>MySQL</li>
    <li>Bootstrap</li>
   <li>React</li>
   <li>NodeJs</li>
-<li>ExpressJs</li>
   <li>Git</li>
 <li>Visual Studio Code</li>
 <li>Githube</li>
