@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p>Mi nombre es Lorena Moujalli, estudiante de ingeniería de sistemas. </p>
 <p>Estoy en costante aprendizaje. 📝</p>
 
-<p><strong>Skills: </strong></p>
+<p><strong>Habilidades: </strong></p>
 <ul>
   <li>C++</li>
   <li>JavaScript</li>
