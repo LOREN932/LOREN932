@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Mi nombre es Lorena Moujalli, estudiante de ingeniería de sistemas. </p>
+<p>Mi nombre es Lorena Moujalli. </p>
 <p>Estoy en costante aprendizaje. 📝</p>
 
 <p><strong>Habilidades: </strong></p>
